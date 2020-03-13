@@ -10,8 +10,5 @@ class Student {
     set MatricNo(matricNo) { this.matricNo = matricNo; }
     get Major() { return this.major; }
     set Major(major) { this.major = major; }
-    
 }
-
-
 module.exports = Student;
